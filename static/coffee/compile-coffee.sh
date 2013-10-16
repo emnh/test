@@ -1,0 +1,1 @@
+coffee -wcm *.coffee
