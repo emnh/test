@@ -2,6 +2,7 @@
   "name": "test",
   "version": "0.0.1",
   "dependencies": {
+    "coffee-script": "1.6.x",
     "express": "3.1.x",
     "bower": "1.2.x"
   },
@@ -10,6 +11,6 @@
     "npm": "1.2.x"
   },
   "scripts": {
-    "postinstall": "./node_modules/bower/bin/bower install"
+    "postinstall": "./node_modules/coffee-script/bin/cake build"
   }
 }
