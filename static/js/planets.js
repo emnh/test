@@ -2,7 +2,10 @@
 
 function init() {
   // Creates canvas 320 × 200 at 10, 50
-  paper = Raphael(10, 50, 620, 400);
+  //paper = Raphael(10, 50, 620, 400);
+  var w = $(window).width(), 
+      h = $(window).height();
+  paper = Raphael(10, 50, w - 10, h - 50);
 }
 
 function initdraw()
