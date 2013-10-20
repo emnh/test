@@ -6,11 +6,22 @@
   <script type="text/javascript" src="js/jquery-ui/ui/jquery-ui.js"></script>
   <script src="js/fancytree/src/jquery.fancytree.js" type="text/javascript"></script>
   <script src="js/fancytree/src/jquery.fancytree.filter.js" type="text/javascript"></script>
+  <style>
+      .first .fancytree-title {
+          color: green
+      }
+      .some_duplicate .fancytree-title {
+          color: orange
+      }
+      .duplicate .fancytree-title {
+          color: red
+      }
+  </style>
 <meta charset=utf-8 />
 <title>Tree</title>
 </head>
 <body>
-   <p>
+  <p>
     <label>Filter:</label>
     <input name="search" placeholder="Filter...">
     <button id="btnResetSearch">&times;</button>
@@ -31,7 +42,8 @@
             mode: "hide"
         },
         source: {
-          url: "data/tree-test.json"
+          //url: "data/tree-test.json"
+          url: "data/tree.json"
         },
       });
     var tree = $("#tree").fancytree("getTree");
