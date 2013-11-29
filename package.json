@@ -4,7 +4,8 @@
   "dependencies": {
     "coffee-script": "1.6.x",
     "express": "3.1.x",
-    "bower": "1.2.x"
+    "bower": "1.2.x",
+    "mori", "0.2.4"
   },
   "engines": {
     "node": "0.10.x",
