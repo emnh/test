@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js" type="text/javascript"></script>
+  <style type="text/css">
+  /* Set alternating row colors (define BEFORE standard css). */
+/*
+  table.fancytree-ext-table tbody tr:nth-child(even){
+    background-color: #f4f4f8;
+  }
+*/
+  /* custom alignment (set by 'renderColumns'' event) */
+  td.alignRight {
+     text-align: right;
+  }
+  
+</style>
+
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css">
+
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.js"></script>
+-->
+<link href="http://wwwendt.de/tech/fancytree/demo/../src/skin-lion/ui.fancytree.css" rel="stylesheet" type="text/css">
+<script src="http://wwwendt.de/tech/fancytree/demo/../lib/jquery-ui.custom.js" type="text/javascript"></script>
+<script src="http://wwwendt.de/tech/fancytree/src/jquery.fancytree.js" type="text/javascript"></script>
+<script src="http://wwwendt.de/tech/fancytree/src/jquery.fancytree.table.js" type="text/javascript"></script>
+<script src="http://esprima.org/esprima.js"></script>
+<script src="http://underscorejs.org/underscore.js"></script>
+<script type="text/javascript" src="coffee/fibtree.js"></script>
+<meta charset=utf-8 />
+<title>JS Bin</title>
+</head>
+<body>  
+  
+  <div id="tree">
+    Tree
+    <input id="expandall1" type=button value="Expand All"></input>
+  </div>
+  <!-- Add a <table> element where the tree should appear: -->
+  <table id="treetable">
+      <colgroup>
+      <col width="30px"></col>
+      <col width="30px"></col>
+      <col width="*"></col>
+      <col width="50px"></col>
+      <col width="30px"></col>
+      </colgroup>
+      <thead>
+          <tr> <th></th> <th>#</th> <th></th> <th>Key</th> <th>Args</th> </tr>
+      </thead>
+      <tbody>
+          <tr> <td></td> <td></td> <td></td> <td></td> </tr>
+      </tbody>
+  </table>
+  <div id="lzytree">
+    Lazy Tree
+    <input id="expandall2" type=button value="Expand All"></input>
+  </div>
+  <pre id="json">JSON</div>
+</body>
+</html>
