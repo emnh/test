@@ -8,6 +8,7 @@
   "dependencies": {
     "jquery": "latest",
     "underscore": "latest",
-    "fancytree": "latest"
+    "fancytree": "latest",
+    "mori": "latest"
   }
 }
