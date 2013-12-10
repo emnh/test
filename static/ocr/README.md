@@ -15,6 +15,7 @@
  - [JSFeat Feature Detection](http://inspirit.github.io/jsfeat/#imgproc): Detect features by points. Including face detection.
  - [Simple Downsampling Euclidean OCR](http://www.heatonresearch.com/fun/ocr): [Code](https://github.com/encog/encog-javascript/blob/master/examples/ocr.html).
 
-## Other
+## Not JS
 
  - [PWNtcha: CAPTCHA OCR](http://caca.zoy.org/wiki/PWNtcha). There is supposed to be a JS version as greasemonkey script as well, but in the github repo I saw only C. Maybe C for training and JS for exec.
+ - [Handwriting Generation with Neural Networks](http://www.cs.toronto.edu/~graves/handwriting.cgi)
