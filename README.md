@@ -1,6 +1,6 @@
 Heroku test bed for small new web projects.
 
-# [JSBin](http://jsbin.com/) Projects
+# [JSBin](http://jsbin.com/) Projects (to port/move)
 
  - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshots and links for each bin, scroller or something.
  - [Basic GLSL with Planets](http://jsbin.com/aCEcohi/edit)
