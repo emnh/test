@@ -7,7 +7,7 @@ Heroku test bed for small new web projects.
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
  - [Silly Duck Game](http://jsbin.com/uCIGelO/edit)
 
-# (Moved to github)[http://coffee-test-emh.herokuapp.com/]
+# [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [Planets JS](http://jsbin.com/ayemum/edit/)
  - [Fibonacci Visual Search Tree](http://jsbin.com/AneBATu/edit)
  - [ClojureScript REPL](http://jsbin.com/UcayUD/edit)
