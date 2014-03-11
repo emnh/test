@@ -11,4 +11,4 @@ makeH = () ->
   makeTagDef(tag) for tag in tags
   return html
 
-HTML = makeH()
+window.HTML = makeH()
