@@ -7,7 +7,7 @@ Heroku test bed for small new web projects.
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
  - [Silly Duck Game](http://jsbin.com/uCIGelO/edit)
  - [Sortable Nested Lists for Binary Tree experimental HEAD](http://jsbin.com/fohet/edit)
- - [Sortable Nested Lists for Binary Tree v112 last known good](http://jsbin.com/fohet/112/edit)
+ - [Sortable Nested Lists for Binary Tree (last known good, clone jsbin fohet v112)](http://jsbin.com/larim/1/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [Planets JS](http://jsbin.com/ayemum/edit/)
