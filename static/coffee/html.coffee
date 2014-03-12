@@ -1,6 +1,6 @@
 makeH = () ->
   html = {}
-  tags = ["script", "div", "span", "p", "ul", "li", "a",
+  tags = ["script", "div", "span", "p", "ul", "ol", "li", "a",
           "table", "th", "tr", "td", "colgroup", "col", "thead", "tbody",
           "h1", "h2", "h3", "h4", "h5",
           "label", "input", "button"]
