@@ -18,3 +18,6 @@ Heroku test bed for small new web projects.
  - [ClojureScript REPL](http://jsbin.com/UcayUD/edit)
  - [GitHub Repo List](http://jsbin.com/OKiROPu/edit)
  - [Reddit NSFW Browser](http://jsbin.com/atokom/edit)
+
+# New project ideas
+ - [3D-TV Planets](http://picanteverde.github.io/3dtv/src/tv3d5.html)
