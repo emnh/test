@@ -4,7 +4,6 @@ Heroku test bed for small new web projects.
 
  - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshots and links for each bin, scroller or something.
  - [Basic GLSL with Planets](http://jsbin.com/aCEcohi/edit)
- - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
  - [Silly Duck Game](http://jsbin.com/uCIGelO/edit)
  - [Sortable Nested Lists for Binary Tree experimental HEAD](http://jsbin.com/fohet/edit)
  - [Sortable Nested Lists for Binary Tree (last known good, fork fohet v112)](http://jsbin.com/larim/1/edit)
@@ -13,6 +12,7 @@ Heroku test bed for small new web projects.
  - [D3 BiGraph](http://jsbin.com/bakoniso/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
+ - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
  - [Planets JS](http://jsbin.com/ayemum/edit/)
  - [Fibonacci Visual Search Tree](http://jsbin.com/AneBATu/edit)
  - [ClojureScript REPL](http://jsbin.com/UcayUD/edit)
