@@ -1,12 +1,15 @@
 {
   "name": "test",
   "version": "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/emnh/test.git"
+  },
   "dependencies": {
     "coffee-script": "1.6.x",
     "express": "3.1.x",
     "bower": "1.2.x",
     "mori": "0.2.4",
-    "boter": "1.0.9",
     "nodemon": "1.0.x",
     "node-watch": "0.3.4"
   },
