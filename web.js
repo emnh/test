@@ -15,7 +15,7 @@ app.use('/', express.static(__dirname + '/static'));
 app.use('/js', express.static(__dirname + '/bower_components'));
 app.use('/nodejs', express.static(__dirname + '/node_modules'));
 
-var port = process.env.PORT || 5000;
+var port = process.env.PORT || 5100;
 app.listen(port, function() {
   console.log("Listening on " + port);
 });
