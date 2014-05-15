@@ -11,6 +11,8 @@ Heroku test bed for small new web projects.
  - [Euler Project](https://projecteuler.net/problem=17) [Practice Problems](http://jsbin.com/mokif/edit)
  - [D3 BiGraph](http://jsbin.com/bakoniso/edit)
 
+ - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/)
+
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
  - [Planets JS](http://jsbin.com/ayemum/edit/)
