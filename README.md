@@ -12,6 +12,7 @@ Heroku test bed for small new web projects.
  - [D3 BiGraph](http://jsbin.com/bakoniso/edit)
 
  - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/)
+ - [Choc Test 2](http://jsfiddle.net/emnh/tDn7p/)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
