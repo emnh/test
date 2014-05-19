@@ -13,6 +13,7 @@ Heroku test bed for small new web projects.
 
  - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/)
  - [Choc Test 2](http://jsfiddle.net/emnh/tDn7p/)
+ - [Iteration Viewer](http://jsbin.com/nulilide/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
