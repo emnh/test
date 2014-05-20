@@ -11,8 +11,8 @@ Heroku test bed for small new web projects.
  - [Euler Project](https://projecteuler.net/problem=17) [Practice Problems](http://jsbin.com/mokif/edit)
  - [D3 BiGraph](http://jsbin.com/bakoniso/edit)
 
- - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/)
- - [Choc Test 2](http://jsfiddle.net/emnh/tDn7p/)
+ - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/) Doesn't work: Choc doesn't handle recursion well. See iteration viewer for manual approach.
+ - [Choc Test 2](http://jsfiddle.net/emnh/tDn7p/) Doesn't work: Choc doesn't handle recursion well.
  - [Iteration Viewer](http://jsbin.com/nulilide/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
