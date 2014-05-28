@@ -14,7 +14,8 @@ Heroku test bed for small new web projects.
  - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/) Doesn't work: Choc doesn't handle recursion well. See iteration viewer for manual approach.
  - [Choc Test 2](http://jsfiddle.net/emnh/tDn7p/) Doesn't work: Choc doesn't handle recursion well.
  - [Iteration Viewer](http://jsbin.com/nulilide/edit) for Maximum Indenpendent Set Algorithm
- - [IPEC Appendix](http://jsbin.com/wapuf/1/edit)
+ - [IPEC Appendix](http://jsbin.com/wapuf/edit)
+ - [Dune Sim](http://jsbin.com/sacize/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
