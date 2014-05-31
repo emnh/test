@@ -25,6 +25,9 @@ Heroku test bed for small new web projects.
  - [GitHub Repo List](http://jsbin.com/OKiROPu/edit)
  - [Reddit NSFW Browser](http://jsbin.com/atokom/edit)
 
+# LaTeX
+ - [CutBool Sampling Algorithm](https://www.writelatex.com/1055942cnthjh#/2475098/)
+
 # New project ideas
  - [3D-TV Planets](http://picanteverde.github.io/3dtv/src/tv3d5.html)
  - [Multi-texture (accumulative) GLSL](http://jsbin.com/rogigubi/1/edit)
