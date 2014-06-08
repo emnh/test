@@ -16,6 +16,7 @@ Heroku test bed for small new web projects.
  - [Iteration Viewer](http://jsbin.com/nulilide/edit) for Maximum Indenpendent Set Algorithm
  - [IPEC Appendix](http://jsbin.com/wapuf/edit)
  - [Dune Sim](http://jsbin.com/sacize/edit)
+ - [GLSL Rects / Circles](http://jsbin.com/vefax/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
