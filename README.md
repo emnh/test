@@ -18,6 +18,7 @@ Heroku test bed for small new web projects.
  - [IPEC Appendix CCMIS Algorithm](http://jsbin.com/qakal/edit)
  - [Dune Sim](http://jsbin.com/sacize/edit)
  - [GLSL Rects / Circles](http://jsbin.com/vefax/edit)
+ - [Tower Defense](http://jsbin.com/poxam/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
