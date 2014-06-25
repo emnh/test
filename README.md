@@ -9,6 +9,7 @@ Heroku test bed for small new web projects.
  - [Sortable Nested Lists for Binary Tree (last known good, fork fohet v112)](http://jsbin.com/larim/1/edit)
  - [BoolWidth DC](http://jsbin.com/larim/1/edit)
  - [Euler Project](https://projecteuler.net/problem=17) [Practice Problems](http://jsbin.com/mokif/edit)
+ - [Not Started: ACM ICPC Problems](https://icpc.kattis.com/problems)
  - [D3 BiGraph](http://jsbin.com/bakoniso/edit)
 
  - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/) Doesn't work: Choc doesn't handle recursion well. See iteration viewer for manual approach.
