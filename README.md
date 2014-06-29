@@ -20,6 +20,7 @@ Heroku test bed for small new web projects.
  - [Dune Sim](http://jsbin.com/sacize/edit)
  - [GLSL Rects / Circles](http://jsbin.com/vefax/edit)
  - [Tower Defense](http://jsbin.com/poxam/edit)
+ - [CodeMirror Diff Typist](http://jsbin.com/fimaj/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
