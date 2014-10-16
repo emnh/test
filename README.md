@@ -22,6 +22,7 @@ Heroku test bed for small new web projects.
  - [Tower Defense](http://jsbin.com/poxam/edit)
  - [CodeMirror Diff Typist](http://jsbin.com/fimaj/edit)
  - [Binary Tree Recursion](http://jsbin.com/zumeyo/edit)
+ - [Help/Index Page for BoolWidth / CutBool CoffeeScript](http://jsbin.com/lefihi/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
