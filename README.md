@@ -21,6 +21,7 @@ Heroku test bed for small new web projects.
  - [GLSL Rects / Circles](http://jsbin.com/vefax/edit)
  - [Tower Defense](http://jsbin.com/poxam/edit)
  - [CodeMirror Diff Typist](http://jsbin.com/fimaj/edit)
+ - [Binary Tree Recursion](http://jsbin.com/zumeyo/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
