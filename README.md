@@ -4,7 +4,6 @@ Heroku test bed for small new web projects.
 
  - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshots and links for each bin, scroller or something.
  - [Basic GLSL with Planets](http://jsbin.com/aCEcohi/edit)
- - [Silly Duck Game](http://jsbin.com/uCIGelO/edit)
  - [Sortable Nested Lists for Binary Tree experimental HEAD](http://jsbin.com/fohet/edit)
  - [Sortable Nested Lists for Binary Tree (last known good, fork fohet v112)](http://jsbin.com/larim/1/edit)
  - [BoolWidth DC](http://jsbin.com/larim/1/edit)
@@ -14,6 +13,7 @@ Heroku test bed for small new web projects.
 
  - [Choc Test](http://jsfiddle.net/emnh/c3ZVu/) Doesn't work: Choc doesn't handle recursion well. See iteration viewer for manual approach.
  - [Choc Test 2](http://jsfiddle.net/emnh/tDn7p/) Doesn't work: Choc doesn't handle recursion well.
+ - [SDG](http://jsbin.com/uCIGelO/edit)
  - [Iteration Viewer](http://jsbin.com/nulilide/edit) for Maximum Indenpendent Set Algorithm
  - [IPEC Appendix Sampling Algorithm](http://jsbin.com/wapuf/edit)
  - [IPEC Appendix CCMIS Algorithm](http://jsbin.com/qakal/edit)
@@ -23,6 +23,7 @@ Heroku test bed for small new web projects.
  - [CodeMirror Diff Typist](http://jsbin.com/fimaj/edit)
  - [Binary Tree Recursion](http://jsbin.com/zumeyo/edit)
  - [Help/Index Page for BoolWidth / CutBool CoffeeScript](http://jsbin.com/lefihi/edit)
+ - [BoolWidth Decomposition Visualizer](http://jsbin.com/wegido/edit)
 
 # [Moved to github](http://coffee-test-emh.herokuapp.com/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
