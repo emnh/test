@@ -1,6 +1,5 @@
 /bower_components
 /node_modules
-/static/coffee/*.js
-/static/coffee/*.map
+/static/coffee.out
 npm-debug.log
 /.c9revisions
