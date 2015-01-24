@@ -6,9 +6,9 @@
     "**/*.txt"
   ],
   "dependencies": {
-    "jquery": "latest",
-    "underscore": "latest",
-    "fancytree": "latest",
-    "mori": "latest"
+    "jquery": "2.1.x",
+    "underscore": "1.7.x",
+    "fancytree": "2.7.x",
+    "mori": "0.3.x"
   }
 }
