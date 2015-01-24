@@ -40,6 +40,8 @@ Heroku test bed for small new web projects.
  - [3D-TV Planets](http://picanteverde.github.io/3dtv/src/tv3d5.html)
  - [Multi-texture (accumulative) GLSL](http://jsbin.com/rogigubi/1/edit)
  - [Improve SC2 Automated Player](http://graphics.stanford.edu/~mdfisher/GameAIs.html)
- - Compiler Experiment, written in OCaml, F#, Haskell or Clojure, running in JS.
+ - Compiler Experiment, written in OCaml, F#, Haskell or Clojure, preferably running in JS.
+  - [LLVM Based Tutorial](http://www.stephendiehl.com/llvm/)
+  - [Java Graal/Truffle Based Tutorial](http://cesquivias.github.io/blog/2014/12/02/writing-a-language-in-truffle-part-2-using-truffle-and-graal/)
  - [Webshop Price Scraper](http://prisguide.hw.no)
  - [Vim.js](https://github.com/coolwanglu/vim.js/) / [JSBin](https://github.com/jsbin/jsbin/) integration
