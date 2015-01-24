@@ -25,7 +25,7 @@ Heroku test bed for small new web projects.
  - [Help/Index Page for BoolWidth / CutBool CoffeeScript](http://jsbin.com/lefihi/edit)
  - [BoolWidth Decomposition Visualizer](http://jsbin.com/wegido/edit)
 
-# [Moved to github](http://coffee-test-emh.herokuapp.com/)
+# [Moved to github](http://coffee-test-emh.herokuapp.com/) [IO page](http://emnh.github.io/test/)
  - [CutBool Experiments](http://jsbin.com/UfAnonA/edit)
  - [Planets JS](http://jsbin.com/ayemum/edit/)
  - [Fibonacci Visual Search Tree](http://jsbin.com/AneBATu/edit)
