@@ -17,7 +17,7 @@ Heroku test bed for small new web projects.
  - [Iteration Viewer](http://jsbin.com/nulilide/edit) for Maximum Indenpendent Set Algorithm
  - [IPEC Appendix Sampling Algorithm](http://jsbin.com/wapuf/edit)
  - [IPEC Appendix CCMIS Algorithm](http://jsbin.com/qakal/edit)
- - [Dune Sim](http://jsbin.com/sacize/edit)
+ - [Dune Sim](http://jsbin.com/sacize/edit) (very primitive, just some rectangles really)
  - [GLSL Rects / Circles](http://jsbin.com/vefax/edit)
  - [Tower Defense](http://jsbin.com/poxam/edit)
  - [CodeMirror Diff Typist](http://jsbin.com/fimaj/edit)
