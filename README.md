@@ -39,3 +39,7 @@ Heroku test bed for small new web projects.
 # New project ideas
  - [3D-TV Planets](http://picanteverde.github.io/3dtv/src/tv3d5.html)
  - [Multi-texture (accumulative) GLSL](http://jsbin.com/rogigubi/1/edit)
+ - [Improve SC2 Automated Player](http://graphics.stanford.edu/~mdfisher/GameAIs.html)
+ - Compiler Experiment, written in OCaml, F#, Haskell or Clojure, running in JS.
+ - [Webshop Price Scraper](http://prisguide.hw.no)
+ - [Vim.js](https://github.com/coolwanglu/vim.js/) / [JSBin](https://github.com/jsbin/jsbin/) integration
