@@ -12,7 +12,7 @@ var express = require('express');
 var app = express();
 app.use(express.logger());
 app.use('/', express.static(__dirname + '/static'));
-app.use('/js', express.static(__dirname + '/bower_components'));
+app.use('/bowerjs', express.static(__dirname + '/bower_components'));
 app.use('/nodejs', express.static(__dirname + '/node_modules'));
 
 var port = process.env.PORT || 5100;
