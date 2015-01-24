@@ -15,7 +15,7 @@
   },
   "engines": {
     "node": "0.10.x",
-    "npm": "1.2.x"
+    "npm": "2.3.x"
   },
   "scripts": {
     "postinstall": "./node_modules/coffee-script/bin/cake build"
