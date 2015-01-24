@@ -1,5 +1,4 @@
 # Translated from JS to Coffee using js2coffee.org and manual error correction
-# Not hooked up to planets.html yet. Planets.js is still being used.
 
 # looks similar to http://glsl.heroku.com/e#9955.0
 
@@ -9,7 +8,9 @@ Planets = {}
 
 init = ->
   # Creates canvas 320 × 200 at 10, 50
-  Planets.paper = Raphael(10, 50, 620, 400)
+  w = $(window).width()
+  h = $(window).height()
+  Planets.paper = Raphael(0, 0, w, h)
 
 initdraw = ->
   startd = new Date()
@@ -68,7 +69,7 @@ updateplanets = ->
       drawstate.planets[i].x += drawstate.planets[i].xv
       drawstate.planets[i].x = drawstate.planets[i].x % 1.0
       drawstate.planets[i].y += drawstate.planets[i].yv
-      drawstate.planets[i].y = drawstate.planets[i].y % 1.0  
+      drawstate.planets[i].y = drawstate.planets[i].y % 1.0
 
 drawplanets = () ->
   Planets.paper.clear()
