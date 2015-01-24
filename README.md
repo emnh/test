@@ -47,4 +47,7 @@ Heroku test bed for small new web projects.
   - [LLVM Based Tutorial](http://www.stephendiehl.com/llvm/)
   - [Java Graal/Truffle Based Tutorial](http://cesquivias.github.io/blog/2014/12/02/writing-a-language-in-truffle-part-2-using-truffle-and-graal/)
  - [Webshop Price Scraper](http://prisguide.hw.no)
- - [Vim.js](https://github.com/coolwanglu/vim.js/) / [JSBin](https://github.com/jsbin/jsbin/) integration
+ - [JSBin](https://github.com/jsbin/jsbin/) 
+  - [Vim.js](https://github.com/coolwanglu/vim.js/) integration 
+  - Add ClojureScript-in-ClojureScript or WISP support
+  - GitHub project integration
