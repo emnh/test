@@ -36,7 +36,7 @@ class Invocation
     [@fun, @args...] = list
     @valargs = []
   
-  mapf: (f) -> 
+  mapf: (f) ->
     if $.isFunction(f)
       f()
     else
@@ -188,7 +188,6 @@ expandbutton = (button, tree) ->
       $(@).attr("value", "Expand All")
   
 main = () ->
-    
   inv = new Invocation([() -> fib(10)])
   result = inv.apply()
   
@@ -228,9 +227,13 @@ main = () ->
         return
     })
   
-stack = "https://raw.github.com/eriwen/javascript-stacktrace/master/stacktrace.js"
-decycle = "https://raw.github.com/douglascrockford/JSON-js/master/cycle.js"
-scripts = [stack, decycle]
+#stack = "https://raw.github.com/eriwen/javascript-stacktrace/master/stacktrace.js"
+#decycle = "https://raw.github.com/douglascrockford/JSON-js/master/cycle.js"
+#scripts = [window.location + "/../" + stack, window.location + "/../" + decycle]
+#stack = "jscache/stacktrace.js"
+#decycle = "jscache/cycle.js"
+#scripts = [stack, decycle]
+scripts = []
 
 # get scripts and run main, equivalent to:
 # ..., $.getScript(stack, () -> $.getScript(decycle, main)))
@@ -238,5 +241,7 @@ fun = main
 while scripts.length > 0
   script = scripts.pop()
   fun = do (script, fun) ->
+    console.log(script)
     () -> $.getScript(script, fun)
-fun()
+# timeout. something to do with script loading
+setTimeout fun, 1000
