@@ -38,6 +38,11 @@ Heroku test bed for small new web projects.
  - [IPEC Appendix CCMIS Algorithm](http://jsbin.com/qakal/edit)
  - [Dune Sim](http://jsbin.com/sacize/edit) (very primitive, just some rectangles really)
  - [GLSL Rects / Circles](http://jsbin.com/vefax/edit)
+  - [Version 2](http://output.jsbin.com/vefax/2) Overlapping rectangles
+  - [Version 3](http://output.jsbin.com/vefax/3) Overlapping circles
+  - [Version 6](http://output.jsbin.com/vefax/6) Jumping lights
+  - [Version 7](http://output.jsbin.com/vefax/7) Jumping lights
+  - [Version 9](http://output.jsbin.com/vefax/9) Bezier curves
  - [Tower Defense](http://jsbin.com/poxam/edit)
  - [CodeMirror Diff Typist](http://jsbin.com/fimaj/edit)
  - [Binary Tree Recursion](http://jsbin.com/zumeyo/edit)
