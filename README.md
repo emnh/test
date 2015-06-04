@@ -60,6 +60,10 @@ Heroku test bed for small new web projects.
  - [GitHub Repo List](http://jsbin.com/OKiROPu/edit)
  - [Reddit NSFW Browser](http://jsbin.com/atokom/edit)
 
+# GLSL Sandbox Projects
+ - [Modified lightning](http://glslsandbox.com/e#25772.7)
+ - [Modified shading](http://glslsandbox.com/e#25776.2)
+
 # LaTeX
  - [CutBool Sampling Algorithm](https://www.writelatex.com/1055942cnthjh#/2475098/)
 
