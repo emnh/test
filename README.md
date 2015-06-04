@@ -2,7 +2,26 @@ Heroku test bed for small new web projects.
 
 # [JSBin](http://jsbin.com/) Projects (to port/move)
 
- - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshots and links for each bin, scroller or something.
+ - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshot gallery of versions
+  - [Version 22](http://output.jsbin.com/gefuv/22)
+  - [Version 27](http://output.jsbin.com/gefuv/27)
+  - [Version 30](http://output.jsbin.com/gefuv/30)
+  - [Version 33](http://output.jsbin.com/gefuv/33)
+  - [Version 34](http://output.jsbin.com/gefuv/34)
+  - [Version 35](http://output.jsbin.com/gefuv/35)
+  - [Version 36](http://output.jsbin.com/gefuv/36)
+  - [Version 40](http://output.jsbin.com/gefuv/40)
+  - [Version 42](http://output.jsbin.com/gefuv/42)
+  - [Version 43](http://output.jsbin.com/gefuv/43)
+  - [Version 98](http://output.jsbin.com/gefuv/98) Quite dark. Adjust brightness line 61.
+  - [Version 100](http://output.jsbin.com/gefuv/100)
+  - [Version 102](http://output.jsbin.com/gefuv/102)
+  - [Version 120](http://output.jsbin.com/gefuv/120)
+  - [Version 123](http://output.jsbin.com/gefuv/123)
+  - [Version 129](http://output.jsbin.com/gefuv/129)
+  - [Version 131](http://output.jsbin.com/gefuv/131)
+  - [Version 135](http://output.jsbin.com/gefuv/135)
+  - [Version 137](http://output.jsbin.com/gefuv/137) Last known working
  - [Basic GLSL with Planets](http://jsbin.com/aCEcohi/edit)
  - [Sortable Nested Lists for Binary Tree experimental HEAD](http://jsbin.com/fohet/edit)
  - [Sortable Nested Lists for Binary Tree (last known good, fork fohet v112)](http://jsbin.com/larim/1/edit)
