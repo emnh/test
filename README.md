@@ -61,7 +61,8 @@ Heroku test bed for small new web projects.
  - [Reddit NSFW Browser](http://jsbin.com/atokom/edit)
 
 # GLSL Sandbox Projects
- - [Modified lightning](http://glslsandbox.com/e#25772.7)
+ - [Circular lightning](http://glslsandbox.com/e#25772.7)
+ - [HSV Lightning](http://glslsandbox.com/e#25795.1)
  - [Modified shading](http://glslsandbox.com/e#25776.2)
 
 # LaTeX
