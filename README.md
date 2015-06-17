@@ -65,7 +65,7 @@ Heroku test bed for small new web projects.
  - [Circular lightning](http://glslsandbox.com/e#25772.7)
  - [HSV Lightning](http://glslsandbox.com/e#25795.1)
  - [Modified shading](http://glslsandbox.com/e#25776.2)
- - [Random Continuous Functions XY](http://glslsandbox.com/e#26098.6)
+ - [Random Continuous Functions XY](http://glslsandbox.com/e#26098.7)
 
 # LaTeX
  - [CutBool Sampling Algorithm](https://www.writelatex.com/1055942cnthjh#/2475098/)
