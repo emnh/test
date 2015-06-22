@@ -4,6 +4,7 @@ Heroku test bed for small new web projects.
 
  - [Three.js Shader Demo](http://jsbin.com/qodemeqelo/edit)
  - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshot gallery of versions
+  - TODO: glsl.heroku.com moved to glslsandbox.com and the JS URLs are invalid for all versions before 142..
   - [Version 22](http://output.jsbin.com/gefuv/22)
   - [Version 27](http://output.jsbin.com/gefuv/27)
   - [Version 30](http://output.jsbin.com/gefuv/30)
@@ -22,8 +23,10 @@ Heroku test bed for small new web projects.
   - [Version 129](http://output.jsbin.com/gefuv/129)
   - [Version 131](http://output.jsbin.com/gefuv/131)
   - [Version 135](http://output.jsbin.com/gefuv/135)
-  - [Version 137](http://output.jsbin.com/gefuv/137) Last known working
+  - [Version 137](http://output.jsbin.com/gefuv/137)
   - [Fork with lines between planets](http://jsbin.com/siqemiwiwo/edit)
+  - New versions:
+   - [Version 142](http://output.jsbin.com/gefuv/142) Last known working
  - [Basic GLSL with Planets](http://jsbin.com/aCEcohi/edit)
  - [Sortable Nested Lists for Binary Tree experimental HEAD](http://jsbin.com/fohet/edit)
  - [Sortable Nested Lists for Binary Tree (last known good, fork fohet v112)](http://jsbin.com/larim/1/edit)
