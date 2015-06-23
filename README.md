@@ -2,7 +2,7 @@ Heroku test bed for small new web projects.
 
 # [JSBin](http://jsbin.com/) Projects (to port/move)
 
- - [Three.js Shader Demo]
+ - Three.js Shader Demo
   - [Basic](http://jsbin.com/qodemeqelo/edit)
   - [Planets](http://jsbin.com/qifeto/edit)
  - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshot gallery of versions
