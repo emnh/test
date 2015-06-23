@@ -2,7 +2,9 @@ Heroku test bed for small new web projects.
 
 # [JSBin](http://jsbin.com/) Projects (to port/move)
 
- - [Three.js Shader Demo](http://jsbin.com/qodemeqelo/edit)
+ - [Three.js Shader Demo]
+  - [Basic](http://jsbin.com/qodemeqelo/edit)
+  - [Planets](http://jsbin.com/qifeto/edit)
  - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshot gallery of versions
   - TODO: glsl.heroku.com moved to glslsandbox.com and the JS URLs are invalid for all versions before 142..
   - [Version 22](http://output.jsbin.com/gefuv/22)
