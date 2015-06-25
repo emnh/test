@@ -6,6 +6,7 @@ Heroku test bed for small new web projects.
   - [Basic](http://jsbin.com/qodemeqelo/edit)
   - [Planets](http://jsbin.com/qifeto/edit)
  - [GLSL heroku-clone with Planets](http://jsbin.com/gefuv/edit): TODO make screenshot gallery of versions
+  - [Screenshots](https://photos.google.com/album/AF1QipOOWBVlQuNORXHmmTTFCXnHnzkHi2EoZLmRsga6)
   - TODO: glsl.heroku.com moved to glslsandbox.com and the JS URLs are invalid for all versions before 142..
   - [Version 22](http://output.jsbin.com/gefuv/22)
   - [Version 27](http://output.jsbin.com/gefuv/27)
