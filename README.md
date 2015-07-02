@@ -91,3 +91,7 @@ Heroku test bed for small new web projects.
   - [Vim.js](https://github.com/coolwanglu/vim.js/) integration 
   - Add ClojureScript-in-ClojureScript or WISP support
   - GitHub project integration
+ - Tower Defense
+  - Using mori.js for game state history / replay.
+  - Using [Babylon.js WorldMonger for terrain](https://github.com/BabylonJS/Samples/tree/master/Scenes/WorldMonger)
+  - Using [Google LiquidFun](http://google.github.io/liquidfun/) for physics. This is 2D though, but maybe can work around..
